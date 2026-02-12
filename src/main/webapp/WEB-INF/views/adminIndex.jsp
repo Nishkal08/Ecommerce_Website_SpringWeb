@@ -19,7 +19,7 @@
   		if(${isAdmin} == true)
   		{
   			
-  			alert("You successfully logged in as admin")
+  			alert("You successfully logged in as admin");
   		}
   		
   	
